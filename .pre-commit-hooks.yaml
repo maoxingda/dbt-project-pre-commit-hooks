@@ -1,0 +1,5 @@
+-   id: check-dbt-resource-configuraton
+    name: check for missing or invalid configurations
+    description: prevents missing or invalid configurations from being committed.
+    entry: check-dbt-resource-configuraton
+    language: python
